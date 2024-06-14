@@ -1,0 +1,1 @@
+[![Состояние сборки](https://ci.appveyor.com/api/projects/status/qoj7j3awumg3e4dc/branch/mai?svg=true)]
